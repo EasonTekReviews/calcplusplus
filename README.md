@@ -1,6 +1,7 @@
 A Open Source iOS & macOS Calculator
 
 The purpose of this project is to offer iOS and macOS users a powerful calculator application that is open-source and free.
+anyone who codes in swift can join
 
 Our Build Numbering scheme is
 
